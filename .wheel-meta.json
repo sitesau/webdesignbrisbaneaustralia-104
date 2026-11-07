@@ -1,0 +1,22 @@
+{
+  "wheel_id": 397,
+  "structure": "umbrella",
+  "slug": "webdesignbrisbaneaustralia-104",
+  "project": "web-design-brisbane-cost-guide-854a456ec11afa60b6e0dcba465e6034",
+  "parent_t1_ref": "webdesignbrisbaneaustralia-151",
+  "node_role": "feeder",
+  "money_target": "webdesignbrisbaneaustralia.com.au",
+  "primary_kw": "web design brisbane cost guide",
+  "intended_url": "https://aumedia.neocities.org/web-design-brisbane-cost-guide-854a456ec11afa60b6e0dcba465e6034/",
+  "tier": "T2",
+  "writeback_nonce": "4f91763fd4b65667",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/webdesignbrisbaneaustralia-151/",
+      "anchor": "this web design brisbane before you start resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
